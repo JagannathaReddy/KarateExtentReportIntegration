@@ -6,7 +6,7 @@ function fn() {
   }
   var config = {
     env: env,
-    myVarName: 'someValue'
+	myVarName: 'someValue'
   }
   if (env == 'dev') {
     // customize
